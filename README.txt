@@ -1,4 +1,4 @@
-MUNDANE WORLD WIKI — VERSION 1.0
+MUNDANE WORLD WIKI — VERSION 1.1
 Player-facing edition, through Session 1.
 
 OPEN THE WIKI
