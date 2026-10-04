@@ -1,4 +1,4 @@
-MUNDANE WORLD WIKI — VERSION 1.2
+MUNDANE WORLD WIKI — VERSION 1.4
 Player-facing edition, through Session 1.
 
 OPEN THE WIKI
@@ -19,7 +19,8 @@ The next edition will add new canon, expand articles, and add a session recap.
 Replace the published index.html with the newly supplied version.
 
 CONTENTS
-index.html — Complete standalone wiki, including all articles, styling, and search.
+index.html — Complete standalone wiki, including articles, portraits, styling, and search.
+The original supplied portraits and Orethon map are embedded; no separate image folder is required.
 README.txt — These instructions.
 CHANGELOG.txt — Changes in this edition.
 
