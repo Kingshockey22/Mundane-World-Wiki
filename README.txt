@@ -1,5 +1,5 @@
-MUNDANE WORLD WIKI — VERSION 1.4
-Player-facing edition, through Session 1.
+MUNDANE WORLD WIKI — VERSION 1.5
+Player-facing edition, through Session 2.
 
 OPEN THE WIKI
 Open index.html in a web browser. No installation or internet connection is required.
@@ -25,6 +25,6 @@ README.txt — These instructions.
 CHANGELOG.txt — Changes in this edition.
 
 CONTENT BOUNDARY
-Only party-approved character information and Session 1 discoveries are included.
+Only party-approved character information and discoveries through Session 2 are included.
 No DM-facing notes, hidden lore, future encounter plans, or transcript files are
 included in this publishing package. Unexplained phenomena remain unexplained.
